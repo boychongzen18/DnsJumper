@@ -6,7 +6,7 @@
 
 # Tampilan DNS Jumper
 ![be](https://raw.githubusercontent.com/boychongzen18/DnsJumper/master/dns.jpg)
-![be](https://raw.githubusercontent.com/boychongzen18/DnsJumper/master/dns1.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/DnsJumper/master/dns0.jpg)
 
 # My Tutorial
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
